@@ -1,6 +1,6 @@
 # My First Hugo Static Website
 
-Welcome to my first Hugo static website! In this README, I'll provide you with a brief guide on how to create a Hugo website and how to add it to GitHub.
+Welcome to my first Hugo static website! I'll provide you with a brief guide on how to create a Hugo website and how to add it to GitHub.
 Prerequisites
 
 Before you begin, make sure you have the following prerequisites installed on your computer:
