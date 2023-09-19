@@ -51,11 +51,11 @@ Your site will be available at http://localhost:1313/.
 6. Build Your Site
 
 Once you're satisfied with your site, build it using the following command:
-
+```
 bash
 
 hugo
-
+```
 This will generate the static files in the public directory.
 7. Create a GitHub Repository
 
@@ -63,21 +63,22 @@ Go to GitHub (https://github.com) and create a new repository to host your websi
 8. Initialize Git and Push to GitHub
 
 Back in your terminal, initialize a Git repository in your Hugo project folder:
-
+```
 bash
 
 git init
-
+```
 Add your files, commit them, and set the remote repository URL:
-
+```
 bash
 
 git add .
 git commit -m "Initial commit"
 git remote add origin <your-github-repo-url>
-
+```
 Finally, push your Hugo website to GitHub:
-
+```
 bash
 
 git push -u origin master
+```
