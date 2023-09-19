@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>New Linux User</title>
+    <link>/</link>
+    <description>Recent content on New Linux User</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo Static Website on GitHub</title>
+      <link>/projects/hugo-static-website/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/hugo-static-website/</guid>
+      <description>Hugo Install and Configurations $ sudo dnf install hugo Starting Hugo Configurations ~$ mkdir hugo-blog ~$ cd hugo-blog ~$ hugo new site . ~$ nano .gitignore Create a public file to store websire data
+public/ Close using: (ctl+x+y+enter). Now move to the next step, remember we are still on the same directory.
+~$ git init ~$ git add . ~$ git status ~$ git commit -m &amp;#34;first commit&amp;#34; ~$ git branch -M main ~$ git remote add origin https://github.</description>
+    </item>
+    
+    <item>
+      <title>Learning Linux</title>
+      <link>/the-journey/about/</link>
+      <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/the-journey/about/</guid>
+      <description>Switching To Linux Switching to Linux has been an incredible journey for me, and it&amp;rsquo;s been full of valuable experiences and encounters with the Linux community. While it&amp;rsquo;s true that the Linux community can be quite opinionated at times, especially among the Arch base enthusiasts, I&amp;rsquo;ve also found that it&amp;rsquo;s a place where you can discover a wealth of knowledge and connect with people who are eager to help you learn and solve problems.</description>
+    </item>
+    
+    <item>
+      <title>Pi-hole</title>
+      <link>/projects/pihole/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/pihole/</guid>
+      <description>Pi-hole: A Comprehensive Guide to Blocking Ads on Your Network Are you tired of being bombarded with irrelevant ads while browsing the web? Want to take control of your internet experience and block unwanted ads? Then Pi-hole is the answer you’re looking for.
+What is Pi-hole? Pi-hole is a free and open-source software that acts as a DNS server to block ads, trackers, and malicious websites. It’s designed to run on a Raspberry Pi, but can also be installed on other Linux-based systems.</description>
+    </item>
+    
+  </channel>
+</rss>

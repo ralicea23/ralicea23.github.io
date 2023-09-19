@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>linux on New Linux User</title>
+    <link>/tags/linux/</link>
+    <description>Recent content in linux on New Linux User</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo Static Website on GitHub</title>
+      <link>/projects/hugo-static-website/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/hugo-static-website/</guid>
+      <description>Hugo Install and Configurations $ sudo dnf install hugo Starting Hugo Configurations ~$ mkdir hugo-blog ~$ cd hugo-blog ~$ hugo new site . ~$ nano .gitignore Create a public file to store websire data
+public/ Close using: (ctl+x+y+enter). Now move to the next step, remember we are still on the same directory.
+~$ git init ~$ git add . ~$ git status ~$ git commit -m &amp;#34;first commit&amp;#34; ~$ git branch -M main ~$ git remote add origin https://github.</description>
+    </item>
+    
+    <item>
+      <title>Learning Linux</title>
+      <link>/the-journey/about/</link>
+      <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/the-journey/about/</guid>
+      <description>Switching To Linux Switching to Linux has been an incredible journey for me, and it&amp;rsquo;s been full of valuable experiences and encounters with the Linux community. While it&amp;rsquo;s true that the Linux community can be quite opinionated at times, especially among the Arch base enthusiasts, I&amp;rsquo;ve also found that it&amp;rsquo;s a place where you can discover a wealth of knowledge and connect with people who are eager to help you learn and solve problems.</description>
+    </item>
+    
+  </channel>
+</rss>
