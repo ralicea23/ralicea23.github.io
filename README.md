@@ -17,24 +17,24 @@ Follow these steps to create your first Hugo static website and add it to GitHub
 Open your terminal and run the following commands to create a new Hugo site:
 
 bash
-
+```
 # Create a new Hugo site (replace "my-hugo-website" with your desired project name)
 hugo new site my-hugo-website
 
 # Change directory to your new Hugo site
 cd my-hugo-website
-
+```
 2. Choose a Theme
 
 Hugo supports various themes. You can find a theme you like on the Hugo Themes website. After selecting a theme, follow the theme's documentation to add it to your site.
 3. Create Content
 
 You can create new content (e.g., blog posts) using Hugo's built-in command:
-
+```
 bash
 
 hugo new posts/my-first-post.md
-
+```
 Edit the markdown file to add your content.
 4. Customize Your Site
 
@@ -42,11 +42,11 @@ Hugo allows you to customize your site's configuration and layout. Edit the conf
 5. Preview Your Site
 
 To preview your site locally, run the following command:
-
+```
 bash
 
 hugo server -D
-
+```
 Your site will be available at http://localhost:1313/.
 6. Build Your Site
 
