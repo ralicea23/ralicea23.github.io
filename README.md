@@ -1,4 +1,4 @@
-My First Hugo Static Website
+# My First Hugo Static Website
 
 Welcome to my first Hugo static website! In this README, I'll provide you with a brief guide on how to create a Hugo website and how to add it to GitHub.
 Prerequisites
@@ -9,9 +9,9 @@ Before you begin, make sure you have the following prerequisites installed on yo
 
     Git: You'll need Git for version control and to push your website to GitHub. You can download Git from here.
 
-Getting Started
+## Getting Started
 
-Follow these steps to create your first Hugo static website and add it to GitHub:
+### Follow these steps to create your first Hugo static website and add it to GitHub:
 1. Create a New Hugo Site
 
 Open your terminal and run the following commands to create a new Hugo site:
@@ -76,7 +76,7 @@ git add .
 git commit -m "Initial commit"
 git remote add origin <your-github-repo-url>
 ```
-Finally, push your Hugo website to GitHub:
+### Finally, push your Hugo website to GitHub:
 ```
 bash
 
