@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>network on New Linux User</title>
-    <link>/tags/network/</link>
+    <link>https://new-linux-user.streamers.city/tags/network/</link>
     <description>Recent content in network on New Linux User</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 30 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/network/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://new-linux-user.streamers.city/tags/network/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Learning Linux</title>
-      <link>/the-journey/about/</link>
+      <link>https://new-linux-user.streamers.city/the-journey/about/</link>
       <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>/the-journey/about/</guid>
+      <guid>https://new-linux-user.streamers.city/the-journey/about/</guid>
       <description>Switching To Linux Switching to Linux has been an incredible journey for me, and it&amp;rsquo;s been full of valuable experiences and encounters with the Linux community. While it&amp;rsquo;s true that the Linux community can be quite opinionated at times, especially among the Arch base enthusiasts, I&amp;rsquo;ve also found that it&amp;rsquo;s a place where you can discover a wealth of knowledge and connect with people who are eager to help you learn and solve problems.</description>
     </item>
     

@@ -2,48 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/projects/pihole/</loc>
+    <loc>https://new-linux-user.streamers.city/projects/pihole/</loc>
     <lastmod>2023-09-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/dns/</loc>
+    <loc>https://new-linux-user.streamers.city/tags/dns/</loc>
     <lastmod>2023-09-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>https://new-linux-user.streamers.city/</loc>
     <lastmod>2023-09-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/pi-hole/</loc>
+    <loc>https://new-linux-user.streamers.city/tags/pi-hole/</loc>
     <lastmod>2023-09-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/projects/</loc>
+    <loc>https://new-linux-user.streamers.city/projects/</loc>
     <lastmod>2023-09-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/ssh/</loc>
+    <loc>https://new-linux-user.streamers.city/tags/ssh/</loc>
     <lastmod>2023-09-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://new-linux-user.streamers.city/tags/</loc>
     <lastmod>2023-09-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/hugo/</loc>
+    <loc>https://new-linux-user.streamers.city/tags/hugo/</loc>
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/projects/hugo-static-website/</loc>
+    <loc>https://new-linux-user.streamers.city/projects/hugo-static-website/</loc>
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/linux/</loc>
+    <loc>https://new-linux-user.streamers.city/tags/linux/</loc>
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/the-journey/about/</loc>
+    <loc>https://new-linux-user.streamers.city/the-journey/about/</loc>
     <lastmod>2023-07-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/network/</loc>
+    <loc>https://new-linux-user.streamers.city/tags/network/</loc>
     <lastmod>2023-07-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/the-journey/</loc>
+    <loc>https://new-linux-user.streamers.city/the-journey/</loc>
     <lastmod>2023-07-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/virtual-machines/</loc>
+    <loc>https://new-linux-user.streamers.city/tags/virtual-machines/</loc>
     <lastmod>2023-07-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://new-linux-user.streamers.city/categories/</loc>
   </url>
 </urlset>
