@@ -12,9 +12,8 @@
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>/projects/hugo-static-website/</guid>
-      <description>Hugo Install and Configurations $ sudo dnf install hugo Starting Hugo Configurations ~$ mkdir hugo-blog ~$ cd hugo-blog ~$ hugo new site . ~$ nano .gitignore Create a public file to store websire data
-public/ Close using: (ctl+x+y+enter). Now move to the next step, remember we are still on the same directory.
-~$ git init ~$ git add . ~$ git status ~$ git commit -m &amp;#34;first commit&amp;#34; ~$ git branch -M main ~$ git remote add origin https://github.</description>
+      <description>Creating a static website with Hugo and hosting it on GitHub can seem daunting, but I&amp;rsquo;ll break it down into simple steps that beginners can follow. By the end of this post, you&amp;rsquo;ll have your static website up and running. Let&amp;rsquo;s get started: Step 1: Install Hugo
+First, you need to install Hugo, a popular static site generator. You can download it from the official website at Hugo Themes. Follow the installation instructions for your specific operating system.</description>
     </item>
     
     <item>

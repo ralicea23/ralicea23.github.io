@@ -5,15 +5,15 @@
     <link>/tags/dns/</link>
     <description>Recent content in dns on New Linux User</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 04 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/dns/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/dns/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Pi-hole</title>
+      <title>A Beginner&#39;s Guide to Setting Up Pi-hole with Unbound for Ad Blocking and Enhanced Privacy</title>
       <link>/projects/pihole/</link>
-      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
       
       <guid>/projects/pihole/</guid>
-      <description>Pi-hole: A Comprehensive Guide to Blocking Ads on Your Network Are you tired of being bombarded with irrelevant ads while browsing the web? Want to take control of your internet experience and block unwanted ads? Then Pi-hole is the answer you’re looking for.
-What is Pi-hole? Pi-hole is a free and open-source software that acts as a DNS server to block ads, trackers, and malicious websites. It’s designed to run on a Raspberry Pi, but can also be installed on other Linux-based systems.</description>
+      <description>Introduction: Are you tired of annoying ads cluttering your web browsing experience and concerned about your online privacy? Pi-hole with Unbound might be the solution you&amp;rsquo;ve been looking for. In this beginner&amp;rsquo;s guide, we&amp;rsquo;ll walk you through the step-by-step process of setting up Pi-hole with Unbound on your Raspberry Pi or any other compatible device. What is Pi-hole and Unbound?
+Pi-hole is a network-level ad blocker that helps you eliminate unwanted advertisements and trackers from all devices on your network.</description>
     </item>
     
   </channel>
