@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://new-linux-user.streamers.city/projects/kasm/</loc>
+    <lastmod>2023-09-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://new-linux-user.streamers.city/</loc>
     <lastmod>2023-09-22T00:00:00+00:00</lastmod>
   </url><url>
@@ -15,9 +18,6 @@
     <lastmod>2023-09-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://new-linux-user.streamers.city/tags/</loc>
-    <lastmod>2023-09-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://new-linux-user.streamers.city/projects/kasm/</loc>
     <lastmod>2023-09-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://new-linux-user.streamers.city/projects/pihole/</loc>
