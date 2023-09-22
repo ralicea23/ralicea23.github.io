@@ -5,7 +5,17 @@
     <link>https://new-linux-user.streamers.city/projects/</link>
     <description>Recent content in Projects on New Linux User</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 19 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://new-linux-user.streamers.city/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://new-linux-user.streamers.city/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unlocking Productivity and Security: How Kasm Workspaces Benefits Average Computer Users</title>
+      <link>https://new-linux-user.streamers.city/projects/kasm/</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://new-linux-user.streamers.city/projects/kasm/</guid>
+      <description>In today&amp;rsquo;s digital age, the average computer user faces an array of challenges, from maintaining online security to enhancing productivity in remote work environments. Thankfully, Kasm Workspaces has emerged as a game-changer, providing innovative solutions that empower regular individuals to meet these challenges head-on. In this post, we&amp;rsquo;ll explore how Kasm Workspaces can significantly impact the lives of everyday computer users and share some real-life use cases.
+Enhanced Security</description>
+    </item>
+    
     <item>
       <title>A Beginner&#39;s Guide to Setting Up Pi-hole with Unbound for Ad Blocking and Enhanced Privacy</title>
       <link>https://new-linux-user.streamers.city/projects/pihole/</link>
