@@ -35,28 +35,5 @@ Pi-hole is a network-level ad blocker that helps you eliminate unwanted advertis
 First, you need to install Hugo, a popular static site generator. You can download it from the official website at Hugo Themes. Follow the installation instructions for your specific operating system.</description>
     </item>
     
-    <item>
-      <title>Hugo Website</title>
-      <link>https://new-linux-user.streamers.city/projects/hugo-website/</link>
-      <pubDate>Tue, 25 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://new-linux-user.streamers.city/projects/hugo-website/</guid>
-      <description>Hugo Install and Configurations $ sudo dnf install hugo Starting Hugo Configurations ~$ mkdir hugo-blog ~$ cd hugo-blog ~$ hugo new site . ~$ nano .gitignore Create a public file to store websire data
-.gitignore public/ ~$ git init ~$ git add . ~$ git status ~$ git commit -m &amp;#34;first commit&amp;#34; ~$ git branch -M main ~$ git remote add origin https://github.com/your-username/hugo-blog-config.git ~$ git push -u origin main Theming # we are located in hugo-blog folder ~$ ls |themes README.</description>
-    </item>
-    
-    <item>
-      <title>Using Org Mode in Hugo</title>
-      <link>https://new-linux-user.streamers.city/projects/test/</link>
-      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://new-linux-user.streamers.city/projects/test/</guid>
-      <description>Document navigation C-c C-n	Move to the next heading C-c C-p	Move to the previous heading TAB	on a heading will collapse/expand Formatting Emphasis Style	Code bold	*bold* italics	/italics/ literal	=literal= link	link Blocks
-Code can be formatted in blocks like this:
-Where ruby is the language type.
-You can auto fill out that structure with &amp;lt;sTAB at the beginning of a line. CSS
-For blocks you can set specifc classes to be added to the html, so for example</description>
-    </item>
-    
   </channel>
 </rss>
