@@ -1,0 +1,338 @@
+<!doctype html>
+<html lang="en-us">
+  <head>
+    <title>Hugo Website // New Linux User</title>
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <meta charset="utf-8" />
+    <meta name="generator" content="Hugo 0.101.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="author" content="Robert Alicea" />
+    <meta name="description" content="streamers tech website" />
+    <link rel="stylesheet" href="/css/main.min.3c3c186cd62e563ad6e2f00a89dbee656ab912d1d46f856b5605dd0232521e2a.css" />
+
+    
+    <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Hugo Website"/>
+<meta name="twitter:description" content="streamers tech website"/>
+
+    <meta property="og:title" content="Hugo Website" />
+<meta property="og:description" content="streamers tech website" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://new-linux-user.streamers.city/projects/hugo-website/" /><meta property="article:section" content="Projects" />
+<meta property="article:published_time" content="2023-07-25T00:00:00+00:00" />
+<meta property="article:modified_time" content="2023-07-25T00:00:00+00:00" />
+
+
+
+  </head>
+  <body>
+    <header class="app-header">
+      <a href="https://new-linux-user.streamers.city/"><img class="app-header-avatar" src="/img/rob.jpg" alt="Robert Alicea" /></a>
+      <span class="app-header-title">New Linux User</span>
+      <nav class="app-header-menu">
+          <a class="app-header-menu-item" href="/">Home</a>
+             - 
+          
+          <a class="app-header-menu-item" href="/the-journey/">The Journey</a>
+             - 
+          
+          <a class="app-header-menu-item" href="/linux-news/">Linux News</a>
+             - 
+          
+          <a class="app-header-menu-item" href="/projects/">Projects</a>
+             - 
+          
+          <a class="app-header-menu-item" href="/tags/">Tags</a>
+      </nav>
+      <p>Linux from a newcomer&#39;s standpoint</p>
+      <div class="app-header-social">
+        
+          <a href="https://github.com/ralicea23" target="_blank" rel="noreferrer noopener me">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-github">
+  <title>Github</title>
+  <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path>
+</svg>
+          </a>
+        
+      </div>
+    </header>
+    <main class="app-container">
+      
+  <article class="post">
+    <header class="post-header">
+      <h1 class ="post-title">Hugo Website</h1>
+      <div class="post-meta">
+        <div>
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-calendar">
+  <title>calendar</title>
+  <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line>
+</svg>
+          Jul 25, 2023
+        </div>
+        <div>
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-clock">
+  <title>clock</title>
+  <circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline>
+</svg>
+          4 min read
+        </div>
+      </div>
+    </header>
+    <div class="post-content">
+      
+<div id="outline-container-headline-1" class="outline-2">
+<h2 id="headline-1">
+Hugo Install and Configurations
+</h2>
+<div id="outline-text-headline-1" class="outline-text-2">
+<div class="src src-text">
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-text" data-lang="text"><span style="display:flex;"><span>$ sudo dnf install hugo</span></span></code></pre></div>
+</div>
+<div id="outline-container-headline-2" class="outline-4">
+<h4 id="headline-2">
+Starting Hugo Configurations
+</h4>
+<div id="outline-text-headline-2" class="outline-text-4">
+<div class="src src-text">
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-text" data-lang="text"><span style="display:flex;"><span>~$ mkdir hugo-blog
+</span></span><span style="display:flex;"><span>~$ cd hugo-blog
+</span></span><span style="display:flex;"><span>~$ hugo new site .
+</span></span><span style="display:flex;"><span>~$ nano .gitignore</span></span></code></pre></div>
+</div>
+<p>Create a public file to store websire data</p>
+<div class="src src-text">
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-text" data-lang="text"><span style="display:flex;"><span>.gitignore
+</span></span><span style="display:flex;"><span>public/</span></span></code></pre></div>
+</div>
+<div class="src src-text">
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-text" data-lang="text"><span style="display:flex;"><span>~$ git init
+</span></span><span style="display:flex;"><span>~$ git add .
+</span></span><span style="display:flex;"><span>~$ git status
+</span></span><span style="display:flex;"><span>~$ git commit -m &#34;first commit&#34;
+</span></span><span style="display:flex;"><span>~$ git branch -M main
+</span></span><span style="display:flex;"><span>~$ git remote add origin https://github.com/your-username/hugo-blog-config.git
+</span></span><span style="display:flex;"><span>~$ git push -u origin main</span></span></code></pre></div>
+</div>
+</div>
+</div>
+<div id="outline-container-headline-3" class="outline-4">
+<h4 id="headline-3">
+Theming
+</h4>
+<div id="outline-text-headline-3" class="outline-text-4">
+<div class="src src-text">
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-text" data-lang="text"><span style="display:flex;"><span> # we are located in hugo-blog folder
+</span></span><span style="display:flex;"><span>~$ ls
+</span></span><span style="display:flex;"><span> |themes  README.md   data    static  layouts archetypes  content config.toml|
+</span></span><span style="display:flex;"><span>~$ cd themes/
+</span></span><span style="display:flex;"><span> # pick any theme of your choice and place the theme url. In my case I&#39;ll use Coder
+</span></span><span style="display:flex;"><span>~$ git clone https://github.com/luizdepra/hugo-coder.git
+</span></span><span style="display:flex;"><span>~$ cd ..
+</span></span><span style="display:flex;"><span>~$ nano config.toml</span></span></code></pre></div>
+</div>
+<div class="src src-text">
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-text" data-lang="text"><span style="display:flex;"><span>baseURL = &#34;http://www.example.com&#34;
+</span></span><span style="display:flex;"><span>title = &#34;The Simple Linux Theory&#34;
+</span></span><span style="display:flex;"><span>theme = &#34;hugo-coder&#34;
+</span></span><span style="display:flex;"><span>languageCode = &#34;en&#34;
+</span></span><span style="display:flex;"><span>defaultContentLanguage = &#34;en&#34;
+</span></span><span style="display:flex;"><span>paginate = 20
+</span></span><span style="display:flex;"><span>enableEmoji = true
+</span></span><span style="display:flex;"><span># Enable Disqus comments
+</span></span><span style="display:flex;"><span># disqusShortname = &#34;yourdiscussshortname&#34;
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>[markup.highlight]
+</span></span><span style="display:flex;"><span>noClasses = false
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>[params]
+</span></span><span style="display:flex;"><span>author = &#34;Rob Alicea&#34;
+</span></span><span style="display:flex;"><span># license = &#39;&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;CC BY-SA-4.0&lt;/a&gt;&#39;
+</span></span><span style="display:flex;"><span>description = &#34;journey from a tech enthisiast about linux, privacy, smart homes and other things about tech&#34;
+</span></span><span style="display:flex;"><span>keywords = &#34;blog,tech enthusiast,linux&#34;
+</span></span><span style="display:flex;"><span>info = [&#34;Professional Fitness Trainer&#34;, &#34;Tech Addict&#34;]
+</span></span><span style="display:flex;"><span>avatarURL = &#34;images/profile.jpg&#34;
+</span></span><span style="display:flex;"><span>#gravatar = &#34;john.doe@example.com&#34;
+</span></span><span style="display:flex;"><span>dateFormat = &#34;January 2, 2006&#34;
+</span></span><span style="display:flex;"><span>since = 2022
+</span></span><span style="display:flex;"><span># Git Commit in Footer, uncomment the line below to enable it
+</span></span><span style="display:flex;"><span>commit = &#34;https://github.com/luizdepra/hugo-coder/tree/&#34;
+</span></span><span style="display:flex;"><span># Right To Left, shift content direction for languagues such as Arabic
+</span></span><span style="display:flex;"><span>rtl = false
+</span></span><span style="display:flex;"><span># Specify light/dark colorscheme
+</span></span><span style="display:flex;"><span># Supported values:
+</span></span><span style="display:flex;"><span># &#34;auto&#34; (use preference set by browser)
+</span></span><span style="display:flex;"><span># &#34;dark&#34; (dark background, light foreground)
+</span></span><span style="display:flex;"><span># &#34;light&#34; (light background, dark foreground) (default)
+</span></span><span style="display:flex;"><span>colorScheme = &#34;auto&#34;
+</span></span><span style="display:flex;"><span># Hide the toggle button, along with the associated vertical divider
+</span></span><span style="display:flex;"><span>hideColorSchemeToggle = false
+</span></span><span style="display:flex;"><span># Series see also post count
+</span></span><span style="display:flex;"><span>maxSeeAlsoItems = 5
+</span></span><span style="display:flex;"><span># Custom CSS
+</span></span><span style="display:flex;"><span>customCSS = []
+</span></span><span style="display:flex;"><span># Custom SCSS, file path is relative to Hugo&#39;s asset folder (default: {your project root}/assets)
+</span></span><span style="display:flex;"><span>customSCSS = []
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span># Custom JS
+</span></span><span style="display:flex;"><span>customJS = []
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span># Custom remote JS files
+</span></span><span style="display:flex;"><span>customRemoteJS = []
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span># If you want to use fathom(https://usefathom.com) for analytics, add this section
+</span></span><span style="display:flex;"><span># [params.fathomAnalytics]
+</span></span><span style="display:flex;"><span># siteID = &#34;ABCDE&#34;
+</span></span><span style="display:flex;"><span># serverURL = &#34;analytics.example.com&#34; # Default value is cdn.usefathom.com, overwrite this if you are self-hosting
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span># If you want to use plausible(https://plausible.io) for analytics, add this section
+</span></span><span style="display:flex;"><span># [params.plausibleAnalytics]
+</span></span><span style="display:flex;"><span># domain = &#34;example.com&#34;
+</span></span><span style="display:flex;"><span># serverURL = &#34;analytics.example.com&#34; # Default value is plausible.io, overwrite this if you are self-hosting or using a custom domain
+</span></span><span style="display:flex;"><span># outboundLinksTracking = true
+</span></span><span style="display:flex;"><span># fileDownloadsTracking = true
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span># If you want to use goatcounter(https://goatcounter.com) for analytics, add this section
+</span></span><span style="display:flex;"><span># [params.goatCounter]
+</span></span><span style="display:flex;"><span># code = &#34;code&#34;
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span># If you want to use Cloudflare Web Analytics(https://cloudflare.com) for analytics, add this section
+</span></span><span style="display:flex;"><span># [params.cloudflare]
+</span></span><span style="display:flex;"><span># token = &#34;token&#34;
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span># If you want to use Matomo(https://matomo.org) for analytics, add this section
+</span></span><span style="display:flex;"><span># [params.matomo]
+</span></span><span style="display:flex;"><span># siteID = &#34;ABCDE&#34; # Default value is &#34;1&#34;, overwrite this if you are cloud-hosting
+</span></span><span style="display:flex;"><span># serverURL = &#34;analytics.example.com&#34; # For cloud-hosting, use provided URL, e.g. example.matomo.cloud
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span># If you want to use Google Tag Manager(https://analytics.google.com/) for analytics, add this section
+</span></span><span style="display:flex;"><span># [params.googleTagManager]
+</span></span><span style="display:flex;"><span># id = &#34;gid&#34;
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span># If you want to use Yandex Metrika(https://metrika.yandex.ru) for analytics, add this section
+</span></span><span style="display:flex;"><span># [params.yandexMetrika]
+</span></span><span style="display:flex;"><span># id = &#34;gid&#34;
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span># If you want to use Application Insights(https://azure.com/) for analytics, add this section
+</span></span><span style="display:flex;"><span># [params.applicationInsights]
+</span></span><span style="display:flex;"><span># connectionString = &#34;connectionString&#34;
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span># If you want to use microanalytics.io for analytics, add this section
+</span></span><span style="display:flex;"><span># [params.microAnalytics]
+</span></span><span style="display:flex;"><span># id = &#34;ABCDE&#34;
+</span></span><span style="display:flex;"><span># dnt = &#34;false&#34; # respect DNT tracker, &#34;true&#34; by default
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span># If you want to use Pirsch(https://pirsch.io) for analytics, add this section
+</span></span><span style="display:flex;"><span># [params.pirsch]
+</span></span><span style="display:flex;"><span># code = &#34;ABCDE&#34;
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span># If you want to implement a Content-Security-Policy, add this section
+</span></span><span style="display:flex;"><span># [params.csp]
+</span></span><span style="display:flex;"><span># childsrc = [&#34;&#39;self&#39;&#34;]
+</span></span><span style="display:flex;"><span># fontsrc = [&#34;&#39;self&#39;&#34;, &#34;https://fonts.gstatic.com&#34;, &#34;https://cdn.jsdelivr.net/&#34;]
+</span></span><span style="display:flex;"><span># formaction = [&#34;&#39;self&#39;&#34;]
+</span></span><span style="display:flex;"><span># framesrc = [&#34;&#39;self&#39;&#34;, &#34;https://www.youtube.com&#34;]
+</span></span><span style="display:flex;"><span># imgsrc = [&#34;&#39;self&#39;&#34;]
+</span></span><span style="display:flex;"><span># objectsrc = [&#34;&#39;none&#39;&#34;]
+</span></span><span style="display:flex;"><span># stylesrc = [
+</span></span><span style="display:flex;"><span>#   &#34;&#39;self&#39;&#34;,
+</span></span><span style="display:flex;"><span>#   &#34;&#39;unsafe-inline&#39;&#34;,
+</span></span><span style="display:flex;"><span>#   &#34;https://fonts.googleapis.com/&#34;,
+</span></span><span style="display:flex;"><span>#   &#34;https://cdn.jsdelivr.net/&#34;,
+</span></span><span style="display:flex;"><span># ]
+</span></span><span style="display:flex;"><span># scriptsrc = [
+</span></span><span style="display:flex;"><span>#   &#34;&#39;self&#39;&#34;,
+</span></span><span style="display:flex;"><span>#   &#34;&#39;unsafe-inline&#39;&#34;,
+</span></span><span style="display:flex;"><span>#   &#34;https://www.google-analytics.com&#34;,
+</span></span><span style="display:flex;"><span>#   &#34;https://cdn.jsdelivr.net/&#34;,
+</span></span><span style="display:flex;"><span># ]
+</span></span><span style="display:flex;"><span># prefetchsrc = [&#34;&#39;self&#39;&#34;]
+</span></span><span style="display:flex;"><span># # connect-src directive – defines valid targets for to XMLHttpRequest (AJAX), WebSockets or EventSource
+</span></span><span style="display:flex;"><span># connectsrc = [&#34;&#39;self&#39;&#34;, &#34;https://www.google-analytics.com&#34;]
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>[taxonomies]
+</span></span><span style="display:flex;"><span>category = &#34;categories&#34;
+</span></span><span style="display:flex;"><span>series = &#34;series&#34;
+</span></span><span style="display:flex;"><span>tag = &#34;tags&#34;
+</span></span><span style="display:flex;"><span>author = &#34;authors&#34;
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>[[params.social]]
+</span></span><span style="display:flex;"><span>name = &#34;Github&#34;
+</span></span><span style="display:flex;"><span>icon = &#34;fa fa-2x fa-github&#34;
+</span></span><span style="display:flex;"><span>weight = 1
+</span></span><span style="display:flex;"><span>url = &#34;https://github.com/thesimplelinuxtheory/&#34;
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>[languages.en]
+</span></span><span style="display:flex;"><span>languageName = &#34;:us:&#34;
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>[[languages.en.menu.main]]
+</span></span><span style="display:flex;"><span>name = &#34;About&#34;
+</span></span><span style="display:flex;"><span>weight = 1
+</span></span><span style="display:flex;"><span>url = &#34;about/&#34;
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>[[languages.en.menu.main]]
+</span></span><span style="display:flex;"><span>name = &#34;Blog&#34;
+</span></span><span style="display:flex;"><span>weight = 2
+</span></span><span style="display:flex;"><span>url = &#34;posts/&#34;
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>[[languages.en.menu.main]]
+</span></span><span style="display:flex;"><span>name = &#34;Projects&#34;
+</span></span><span style="display:flex;"><span>weight = 3
+</span></span><span style="display:flex;"><span>url = &#34;projects/&#34;
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>[[languages.en.menu.main]]
+</span></span><span style="display:flex;"><span>name = &#34;Contact me&#34;
+</span></span><span style="display:flex;"><span>weight = 5
+</span></span><span style="display:flex;"><span>url = &#34;contact/&#34;</span></span></code></pre></div>
+</div>
+</div>
+</div>
+<div id="outline-container-headline-4" class="outline-3">
+<h3 id="headline-4">
+Start up server
+</h3>
+<div id="outline-text-headline-4" class="outline-text-3">
+<div class="src src-text">
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-text" data-lang="text"><span style="display:flex;"><span>$ hugo server -w</span></span></code></pre></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="outline-container-headline-5" class="outline-2">
+<h2 id="headline-5">
+Adding Channges
+</h2>
+<div id="outline-text-headline-5" class="outline-text-2">
+<div class="src src-text">
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-text" data-lang="text"><span style="display:flex;"><span>~$ cd hugo-blog
+</span></span><span style="display:flex;"><span>~$ git status
+</span></span><span style="display:flex;"><span>~$ git add .
+</span></span><span style="display:flex;"><span>~$ git commit -m &#34;changes&#34;
+</span></span><span style="display:flex;"><span>~$ git push origin main
+</span></span><span style="display:flex;"><span>~$ hugo -d ../thesimplefitnesstheory.github.io
+</span></span><span style="display:flex;"><span>~$ cd ../thesimplefitnesstheory.github.io
+</span></span><span style="display:flex;"><span>~$ git add .
+</span></span><span style="display:flex;"><span>~$ git status
+</span></span><span style="display:flex;"><span>~$ git commit -m &#34;initial commit&#34;
+</span></span><span style="display:flex;"><span>~$ git push origin main</span></span></code></pre></div>
+</div>
+</div>
+</div>
+<div id="outline-container-headline-6" class="outline-2">
+<h2 id="headline-6">
+Access token:
+</h2>
+<div id="outline-text-headline-6" class="outline-text-2">
+<p>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</p>
+</div>
+</div>
+
+    </div>
+    <div class="post-footer">
+      
+    </div>
+  </article>
+
+    </main>
+  </body>
+</html>
