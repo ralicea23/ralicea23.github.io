@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>howto, on New Linux User</title>
+    <link>https://new-linux-user.streamers.city/tags/howto/</link>
+    <description>Recent content in howto, on New Linux User</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://new-linux-user.streamers.city/tags/howto/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Using Org Mode in Hugo</title>
+      <link>https://new-linux-user.streamers.city/projects/test/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://new-linux-user.streamers.city/projects/test/</guid>
+      <description>Document navigation C-c C-n	Move to the next heading C-c C-p	Move to the previous heading TAB	on a heading will collapse/expand Formatting Emphasis Style	Code bold	*bold* italics	/italics/ literal	=literal= link	link Blocks
+Code can be formatted in blocks like this:
+Where ruby is the language type.
+You can auto fill out that structure with &amp;lt;sTAB at the beginning of a line. CSS
+For blocks you can set specifc classes to be added to the html, so for example</description>
+    </item>
+    
+  </channel>
+</rss>
