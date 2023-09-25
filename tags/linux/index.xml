@@ -5,7 +5,18 @@
     <link>https://new-linux-user.streamers.city/tags/linux/</link>
     <description>Recent content in linux on New Linux User</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://new-linux-user.streamers.city/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://new-linux-user.streamers.city/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resolving Zoom Screen Sharing and Custom Backgrounds</title>
+      <link>https://new-linux-user.streamers.city/the-journey/flatseal/</link>
+      <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://new-linux-user.streamers.city/the-journey/flatseal/</guid>
+      <description>![New Linux User](/img/flatseal4.png)
+If you&amp;#39;ve found your way here, you might be facing the same challenges I did with Zoom on Linux. Don&amp;#39;t worry; I&amp;#39;ve got the perfect solution for you, and it&amp;#39;s called Flatseal. This incredible tool not only resolved my Zoom screen sharing and custom background issues but also made configuring applications from Flathub a breeze.
+The Quest to Optimize Zoom on Linux As a tech enthusiast who frequently relies on Zoom for meetings and collaboration, I encountered two significant hurdles when using the Flatpak version of Zoom.</description>
+    </item>
+    
     <item>
       <title>Hugo Static Website on GitHub</title>
       <link>https://new-linux-user.streamers.city/projects/hugo-static-website/</link>

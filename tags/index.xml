@@ -5,7 +5,43 @@
     <link>https://new-linux-user.streamers.city/tags/</link>
     <description>Recent content in Tags on New Linux User</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 22 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://new-linux-user.streamers.city/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://new-linux-user.streamers.city/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>flatpacks</title>
+      <link>https://new-linux-user.streamers.city/tags/flatpacks/</link>
+      <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://new-linux-user.streamers.city/tags/flatpacks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>https://new-linux-user.streamers.city/tags/linux/</link>
+      <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://new-linux-user.streamers.city/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>network</title>
+      <link>https://new-linux-user.streamers.city/tags/network/</link>
+      <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://new-linux-user.streamers.city/tags/network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>terminal</title>
+      <link>https://new-linux-user.streamers.city/tags/terminal/</link>
+      <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://new-linux-user.streamers.city/tags/terminal/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>hugo</title>
       <link>https://new-linux-user.streamers.city/tags/hugo/</link>
@@ -48,24 +84,6 @@
       <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
       
       <guid>https://new-linux-user.streamers.city/tags/pi-hole/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>linux</title>
-      <link>https://new-linux-user.streamers.city/tags/linux/</link>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://new-linux-user.streamers.city/tags/linux/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>network</title>
-      <link>https://new-linux-user.streamers.city/tags/network/</link>
-      <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://new-linux-user.streamers.city/tags/network/</guid>
       <description></description>
     </item>
     
