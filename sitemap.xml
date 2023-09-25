@@ -17,7 +17,10 @@
     <loc>https://new-linux-user.streamers.city/tags/linux/</loc>
     <lastmod>2023-09-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://new-linux-user.streamers.city/the-journey/ublue/</loc>
+    <loc>https://new-linux-user.streamers.city/my-journey/</loc>
+    <lastmod>2023-09-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://new-linux-user.streamers.city/my-journey/ublue/</loc>
     <lastmod>2023-09-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://new-linux-user.streamers.city/tags/network/</loc>
@@ -26,16 +29,13 @@
     <loc>https://new-linux-user.streamers.city/</loc>
     <lastmod>2023-09-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://new-linux-user.streamers.city/the-journey/flatseal/</loc>
+    <loc>https://new-linux-user.streamers.city/my-journey/flatseal/</loc>
     <lastmod>2023-09-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://new-linux-user.streamers.city/tags/</loc>
     <lastmod>2023-09-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://new-linux-user.streamers.city/tags/terminal/</loc>
-    <lastmod>2023-09-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://new-linux-user.streamers.city/the-journey/</loc>
     <lastmod>2023-09-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://new-linux-user.streamers.city/projects/kasm/</loc>
@@ -65,7 +65,7 @@
     <loc>https://new-linux-user.streamers.city/projects/hugo-static-website/</loc>
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://new-linux-user.streamers.city/the-journey/about/</loc>
+    <loc>https://new-linux-user.streamers.city/my-journey/about/</loc>
     <lastmod>2023-07-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://new-linux-user.streamers.city/tags/ssh/</loc>
