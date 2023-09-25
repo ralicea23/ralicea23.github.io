@@ -8,19 +8,19 @@
     <lastBuildDate>Sun, 24 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://new-linux-user.streamers.city/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Navigating the Uncharted Waters of Universal Blue</title>
-      <link>https://new-linux-user.streamers.city/my-journey/ublue/</link>
+      <link>https://new-linux-user.streamers.city/blog/ublue/</link>
       <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://new-linux-user.streamers.city/my-journey/ublue/</guid>
+      <guid>https://new-linux-user.streamers.city/blog/ublue/</guid>
       <description>Introduction As a newcomer to the vast universe of Linux, I&amp;#39;ve often found myself feeling like a voyager lost at sea, struggling to decipher the complexities and intricacies that this open-source world entails. My knowledge and skills are admittedly limited, and my ability to articulate the technical nuances of Universal Blue (U-Blue) remains far from realization. However, despite my novice status, I can unequivocally share my profound impressions of the performance, stability, and transformative aura that U-Blue brings to Fedora Silverblue.</description>
     </item>
     
     <item>
       <title>Resolving Zoom Screen Sharing and Custom Backgrounds</title>
-      <link>https://new-linux-user.streamers.city/my-journey/flatseal/</link>
+      <link>https://new-linux-user.streamers.city/blog/flatseal/</link>
       <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://new-linux-user.streamers.city/my-journey/flatseal/</guid>
+      <guid>https://new-linux-user.streamers.city/blog/flatseal/</guid>
       <description>If you&amp;#39;ve found your way here, you might be facing the same challenges I did with Zoom on Linux. Don&amp;#39;t worry; I&amp;#39;ve got the perfect solution for you, and it&amp;#39;s called Flatseal. This incredible tool not only resolved my Zoom screen sharing and custom background issues but also made configuring applications from Flathub a breeze.
 The Quest to Optimize Zoom on Linux As a tech enthusiast who frequently relies on Zoom for meetings and collaboration, I encountered two significant hurdles when using the Flatpak version of Zoom.</description>
     </item>
@@ -37,10 +37,10 @@ First, you need to install Hugo, a popular static site generator. You can downlo
     
     <item>
       <title>Learning Linux</title>
-      <link>https://new-linux-user.streamers.city/my-journey/about/</link>
+      <link>https://new-linux-user.streamers.city/blog/about/</link>
       <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://new-linux-user.streamers.city/my-journey/about/</guid>
+      <guid>https://new-linux-user.streamers.city/blog/about/</guid>
       <description>Switching To Linux Switching to Linux has been an incredible journey for me, and it&amp;rsquo;s been full of valuable experiences and encounters with the Linux community. While it&amp;rsquo;s true that the Linux community can be quite opinionated at times, especially among the Arch base enthusiasts, I&amp;rsquo;ve also found that it&amp;rsquo;s a place where you can discover a wealth of knowledge and connect with people who are eager to help you learn and solve problems.</description>
     </item>
     

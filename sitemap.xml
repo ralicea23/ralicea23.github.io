@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://new-linux-user.streamers.city/blog/</loc>
+    <lastmod>2023-09-24T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://new-linux-user.streamers.city/tags/custom-images/</loc>
     <lastmod>2023-09-24T00:00:00+00:00</lastmod>
   </url><url>
@@ -17,10 +20,7 @@
     <loc>https://new-linux-user.streamers.city/tags/linux/</loc>
     <lastmod>2023-09-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://new-linux-user.streamers.city/my-journey/</loc>
-    <lastmod>2023-09-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://new-linux-user.streamers.city/my-journey/ublue/</loc>
+    <loc>https://new-linux-user.streamers.city/blog/ublue/</loc>
     <lastmod>2023-09-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://new-linux-user.streamers.city/tags/network/</loc>
@@ -29,7 +29,7 @@
     <loc>https://new-linux-user.streamers.city/</loc>
     <lastmod>2023-09-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://new-linux-user.streamers.city/my-journey/flatseal/</loc>
+    <loc>https://new-linux-user.streamers.city/blog/flatseal/</loc>
     <lastmod>2023-09-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://new-linux-user.streamers.city/tags/</loc>
@@ -65,7 +65,7 @@
     <loc>https://new-linux-user.streamers.city/projects/hugo-static-website/</loc>
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://new-linux-user.streamers.city/my-journey/about/</loc>
+    <loc>https://new-linux-user.streamers.city/blog/about/</loc>
     <lastmod>2023-07-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://new-linux-user.streamers.city/tags/ssh/</loc>
