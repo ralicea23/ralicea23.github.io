@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GNOME on New Linux User</title>
+    <link>https://new-linux-user.streamers.city/tags/gnome/</link>
+    <description>Recent content in GNOME on New Linux User</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 25 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://new-linux-user.streamers.city/tags/gnome/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux News Roundup - September 2023</title>
+      <link>https://new-linux-user.streamers.city/news/latest_news_september_2023/</link>
+      <pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://new-linux-user.streamers.city/news/latest_news_september_2023/</guid>
+      <description>Introduction: As September 2023 draws to a close, it&amp;#39;s time to take a look at the latest developments in the world of Linux. This open-source operating system continues to evolve and expand its presence in various domains, from desktop computing to servers and embedded systems. In this roundup, we&amp;#39;ll highlight some of the most noteworthy news and updates from the Linux ecosystem this month.
+Linux Kernel 5.16 September brought us the release of Linux Kernel 5.</description>
+    </item>
+    
+  </channel>
+</rss>
