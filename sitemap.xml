@@ -2,96 +2,105 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://new-linux-user.streamers.city/tags/gnome/</loc>
+    <loc>/blog/</loc>
+    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/linux_vs_windowsos/</loc>
+    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/linux/</loc>
+    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/open-source/</loc>
+    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/security/</loc>
+    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/stability/</loc>
+    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/gnome/</loc>
     <lastmod>2023-09-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://new-linux-user.streamers.city/news/latest_news_september_2023/</loc>
+    <loc>/news/latest_news_september_2023/</loc>
     <lastmod>2023-09-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://new-linux-user.streamers.city/tags/linux-kernel/</loc>
+    <loc>/tags/linux-kernel/</loc>
     <lastmod>2023-09-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://new-linux-user.streamers.city/</loc>
+    <loc>/news/</loc>
     <lastmod>2023-09-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://new-linux-user.streamers.city/news/</loc>
+    <loc>/tags/rapsberry-pi/</loc>
     <lastmod>2023-09-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://new-linux-user.streamers.city/tags/rapsberry-pi/</loc>
+    <loc>/tags/wayland/</loc>
     <lastmod>2023-09-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://new-linux-user.streamers.city/tags/</loc>
-    <lastmod>2023-09-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://new-linux-user.streamers.city/tags/wayland/</loc>
-    <lastmod>2023-09-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://new-linux-user.streamers.city/blog/</loc>
+    <loc>/tags/custom-images/</loc>
     <lastmod>2023-09-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://new-linux-user.streamers.city/tags/custom-images/</loc>
+    <loc>/tags/fedora-silverblue/</loc>
     <lastmod>2023-09-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://new-linux-user.streamers.city/tags/fedora-silverblue/</loc>
+    <loc>/tags/flatpacks/</loc>
     <lastmod>2023-09-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://new-linux-user.streamers.city/tags/flatpacks/</loc>
+    <loc>/tags/inmutable-distros/</loc>
     <lastmod>2023-09-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://new-linux-user.streamers.city/tags/inmutable-distros/</loc>
+    <loc>/blog/ublue/</loc>
     <lastmod>2023-09-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://new-linux-user.streamers.city/tags/linux/</loc>
+    <loc>/tags/network/</loc>
     <lastmod>2023-09-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://new-linux-user.streamers.city/blog/ublue/</loc>
+    <loc>/blog/flatseal/</loc>
     <lastmod>2023-09-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://new-linux-user.streamers.city/tags/network/</loc>
+    <loc>/tags/terminal/</loc>
     <lastmod>2023-09-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://new-linux-user.streamers.city/blog/flatseal/</loc>
-    <lastmod>2023-09-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://new-linux-user.streamers.city/tags/terminal/</loc>
-    <lastmod>2023-09-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://new-linux-user.streamers.city/projects/kasm/</loc>
+    <loc>/projects/kasm/</loc>
     <lastmod>2023-09-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://new-linux-user.streamers.city/tags/hugo/</loc>
+    <loc>/tags/hugo/</loc>
     <lastmod>2023-09-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://new-linux-user.streamers.city/tags/privacy/</loc>
+    <loc>/tags/privacy/</loc>
     <lastmod>2023-09-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://new-linux-user.streamers.city/projects/</loc>
+    <loc>/projects/</loc>
     <lastmod>2023-09-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://new-linux-user.streamers.city/tags/security/</loc>
-    <lastmod>2023-09-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://new-linux-user.streamers.city/projects/pihole/</loc>
+    <loc>/projects/pihole/</loc>
     <lastmod>2023-09-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://new-linux-user.streamers.city/tags/dns/</loc>
+    <loc>/tags/dns/</loc>
     <lastmod>2023-09-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://new-linux-user.streamers.city/tags/pi-hole/</loc>
+    <loc>/tags/pi-hole/</loc>
     <lastmod>2023-09-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://new-linux-user.streamers.city/projects/hugo-static-website/</loc>
+    <loc>/projects/hugo-static-website/</loc>
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://new-linux-user.streamers.city/blog/about/</loc>
+    <loc>/blog/about/</loc>
     <lastmod>2023-07-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://new-linux-user.streamers.city/tags/ssh/</loc>
+    <loc>/tags/ssh/</loc>
     <lastmod>2023-07-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://new-linux-user.streamers.city/tags/virtual-machines/</loc>
+    <loc>/tags/virtual-machines/</loc>
     <lastmod>2023-07-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://new-linux-user.streamers.city/categories/</loc>
+    <loc>/categories/</loc>
   </url>
 </urlset>

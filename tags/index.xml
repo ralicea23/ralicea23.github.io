@@ -2,169 +2,187 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on New Linux User</title>
-    <link>https://new-linux-user.streamers.city/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on New Linux User</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 25 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://new-linux-user.streamers.city/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>GNOME</title>
-      <link>https://new-linux-user.streamers.city/tags/gnome/</link>
-      <pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://new-linux-user.streamers.city/tags/gnome/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>linux-kernel</title>
-      <link>https://new-linux-user.streamers.city/tags/linux-kernel/</link>
-      <pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://new-linux-user.streamers.city/tags/linux-kernel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rapsberry-Pi</title>
-      <link>https://new-linux-user.streamers.city/tags/rapsberry-pi/</link>
-      <pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://new-linux-user.streamers.city/tags/rapsberry-pi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wayland</title>
-      <link>https://new-linux-user.streamers.city/tags/wayland/</link>
-      <pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://new-linux-user.streamers.city/tags/wayland/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>custom-images</title>
-      <link>https://new-linux-user.streamers.city/tags/custom-images/</link>
-      <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://new-linux-user.streamers.city/tags/custom-images/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>fedora-silverblue</title>
-      <link>https://new-linux-user.streamers.city/tags/fedora-silverblue/</link>
-      <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://new-linux-user.streamers.city/tags/fedora-silverblue/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>flatpacks</title>
-      <link>https://new-linux-user.streamers.city/tags/flatpacks/</link>
-      <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://new-linux-user.streamers.city/tags/flatpacks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>inmutable-distros</title>
-      <link>https://new-linux-user.streamers.city/tags/inmutable-distros/</link>
-      <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://new-linux-user.streamers.city/tags/inmutable-distros/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Thu, 28 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>linux</title>
-      <link>https://new-linux-user.streamers.city/tags/linux/</link>
-      <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
+      <link>/tags/linux/</link>
+      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://new-linux-user.streamers.city/tags/linux/</guid>
+      <guid>/tags/linux/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>network</title>
-      <link>https://new-linux-user.streamers.city/tags/network/</link>
-      <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
+      <title>open-source</title>
+      <link>/tags/open-source/</link>
+      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://new-linux-user.streamers.city/tags/network/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>terminal</title>
-      <link>https://new-linux-user.streamers.city/tags/terminal/</link>
-      <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://new-linux-user.streamers.city/tags/terminal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hugo</title>
-      <link>https://new-linux-user.streamers.city/tags/hugo/</link>
-      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://new-linux-user.streamers.city/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>privacy</title>
-      <link>https://new-linux-user.streamers.city/tags/privacy/</link>
-      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://new-linux-user.streamers.city/tags/privacy/</guid>
+      <guid>/tags/open-source/</guid>
       <description></description>
     </item>
     
     <item>
       <title>security</title>
-      <link>https://new-linux-user.streamers.city/tags/security/</link>
+      <link>/tags/security/</link>
+      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stability</title>
+      <link>/tags/stability/</link>
+      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/stability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GNOME</title>
+      <link>/tags/gnome/</link>
+      <pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/gnome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux-kernel</title>
+      <link>/tags/linux-kernel/</link>
+      <pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/linux-kernel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rapsberry-Pi</title>
+      <link>/tags/rapsberry-pi/</link>
+      <pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/rapsberry-pi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wayland</title>
+      <link>/tags/wayland/</link>
+      <pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/wayland/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>custom-images</title>
+      <link>/tags/custom-images/</link>
+      <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/custom-images/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fedora-silverblue</title>
+      <link>/tags/fedora-silverblue/</link>
+      <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/fedora-silverblue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>flatpacks</title>
+      <link>/tags/flatpacks/</link>
+      <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/flatpacks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>inmutable-distros</title>
+      <link>/tags/inmutable-distros/</link>
+      <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/inmutable-distros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>network</title>
+      <link>/tags/network/</link>
+      <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>terminal</title>
+      <link>/tags/terminal/</link>
+      <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/terminal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>/tags/hugo/</link>
       <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://new-linux-user.streamers.city/tags/security/</guid>
+      <guid>/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>privacy</title>
+      <link>/tags/privacy/</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/privacy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>dns</title>
-      <link>https://new-linux-user.streamers.city/tags/dns/</link>
+      <link>/tags/dns/</link>
       <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://new-linux-user.streamers.city/tags/dns/</guid>
+      <guid>/tags/dns/</guid>
       <description></description>
     </item>
     
     <item>
       <title>pi-hole</title>
-      <link>https://new-linux-user.streamers.city/tags/pi-hole/</link>
+      <link>/tags/pi-hole/</link>
       <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://new-linux-user.streamers.city/tags/pi-hole/</guid>
+      <guid>/tags/pi-hole/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ssh</title>
-      <link>https://new-linux-user.streamers.city/tags/ssh/</link>
+      <link>/tags/ssh/</link>
       <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://new-linux-user.streamers.city/tags/ssh/</guid>
+      <guid>/tags/ssh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>virtual machines</title>
-      <link>https://new-linux-user.streamers.city/tags/virtual-machines/</link>
+      <link>/tags/virtual-machines/</link>
       <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://new-linux-user.streamers.city/tags/virtual-machines/</guid>
+      <guid>/tags/virtual-machines/</guid>
       <description></description>
     </item>
     

@@ -2,74 +2,84 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>New Linux User</title>
-    <link>https://new-linux-user.streamers.city/</link>
+    <link>/</link>
     <description>Recent content on New Linux User</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 25 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://new-linux-user.streamers.city/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Embracing Linux: Unveiling the Best Attributes for Your Computing Needs</title>
+      <link>/blog/linux_vs_windowsos/</link>
+      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/linux_vs_windowsos/</guid>
+      <description>Are you tired of the constant battle between Windows and macOS users, each proclaiming the superiority of their operating system? If you&amp;rsquo;re looking for an alternative that offers a unique set of advantages, Linux might be the answer you&amp;rsquo;ve been searching for. In this post, we&amp;rsquo;ll explore the best attributes of using Linux over Windows and macOS.
+Freedom and Open Source Philosophy: Linux is built on the principles of open source software, which means that anyone can view, modify, and distribute its source code.</description>
+    </item>
+    
     <item>
       <title>Linux News Roundup - September 2023</title>
-      <link>https://new-linux-user.streamers.city/news/latest_news_september_2023/</link>
+      <link>/news/latest_news_september_2023/</link>
       <pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://new-linux-user.streamers.city/news/latest_news_september_2023/</guid>
+      <guid>/news/latest_news_september_2023/</guid>
       <description>Introduction: As September 2023 draws to a close, it&amp;#39;s time to take a look at the latest developments in the world of Linux. This open-source operating system continues to evolve and expand its presence in various domains, from desktop computing to servers and embedded systems. In this roundup, we&amp;#39;ll highlight some of the most noteworthy news and updates from the Linux ecosystem this month.
 Linux Kernel 5.16 September brought us the release of Linux Kernel 5.</description>
     </item>
     
     <item>
       <title>Navigating the Uncharted Waters of Universal Blue</title>
-      <link>https://new-linux-user.streamers.city/blog/ublue/</link>
+      <link>/blog/ublue/</link>
       <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://new-linux-user.streamers.city/blog/ublue/</guid>
+      <guid>/blog/ublue/</guid>
       <description>Introduction As a newcomer to the vast universe of Linux, I&amp;#39;ve often found myself feeling like a voyager lost at sea, struggling to decipher the complexities and intricacies that this open-source world entails. My knowledge and skills are admittedly limited, and my ability to articulate the technical nuances of Universal Blue (U-Blue) remains far from realization. However, despite my novice status, I can unequivocally share my profound impressions of the performance, stability, and transformative aura that U-Blue brings to Fedora Silverblue.</description>
     </item>
     
     <item>
       <title>Resolving Zoom Screen Sharing and Custom Backgrounds</title>
-      <link>https://new-linux-user.streamers.city/blog/flatseal/</link>
+      <link>/blog/flatseal/</link>
       <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://new-linux-user.streamers.city/blog/flatseal/</guid>
+      <guid>/blog/flatseal/</guid>
       <description>If you&amp;#39;ve found your way here, you might be facing the same challenges I did with Zoom on Linux. Don&amp;#39;t worry; I&amp;#39;ve got the perfect solution for you, and it&amp;#39;s called Flatseal. This incredible tool not only resolved my Zoom screen sharing and custom background issues but also made configuring applications from Flathub a breeze.
 The Quest to Optimize Zoom on Linux As a tech enthusiast who frequently relies on Zoom for meetings and collaboration, I encountered two significant hurdles when using the Flatpak version of Zoom.</description>
     </item>
     
     <item>
       <title>Exploring Kasm Self-Hosted: Empowering New Linux Users</title>
-      <link>https://new-linux-user.streamers.city/projects/kasm/</link>
+      <link>/projects/kasm/</link>
       <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://new-linux-user.streamers.city/projects/kasm/</guid>
+      <guid>/projects/kasm/</guid>
       <description>Introduction Linux has gained tremendous popularity among computer enthusiasts and professionals alike due to its flexibility, security, and open-source nature. If you&amp;rsquo;re a new Linux user looking to harness the power of this operating system, Kasm Self-Hosted is a remarkable project that can significantly enhance your Linux experience. In this post, we&amp;rsquo;ll delve into how Kasm Self-Hosted can benefit newcomers to the Linux world and showcase its practical applications through real-life scenarios.</description>
     </item>
     
     <item>
       <title>A Beginner&#39;s Guide to Setting Up Pi-hole with Unbound for Ad Blocking and Enhanced Privacy</title>
-      <link>https://new-linux-user.streamers.city/projects/pihole/</link>
+      <link>/projects/pihole/</link>
       <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://new-linux-user.streamers.city/projects/pihole/</guid>
+      <guid>/projects/pihole/</guid>
       <description>Introduction: Are you tired of annoying ads cluttering your web browsing experience and concerned about your online privacy? Pi-hole with Unbound might be the solution you&amp;rsquo;ve been looking for. In this beginner&amp;rsquo;s guide, we&amp;rsquo;ll walk you through the step-by-step process of setting up Pi-hole with Unbound on your Raspberry Pi or any other compatible device. What is Pi-hole and Unbound?
 Pi-hole is a network-level ad blocker that helps you eliminate unwanted advertisements and trackers from all devices on your network.</description>
     </item>
     
     <item>
       <title>Hugo Static Website on GitHub</title>
-      <link>https://new-linux-user.streamers.city/projects/hugo-static-website/</link>
+      <link>/projects/hugo-static-website/</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://new-linux-user.streamers.city/projects/hugo-static-website/</guid>
+      <guid>/projects/hugo-static-website/</guid>
       <description>Creating a static website with Hugo and hosting it on GitHub can seem daunting, but I&amp;rsquo;ll break it down into simple steps that beginners can follow. By the end of this post, you&amp;rsquo;ll have your static website up and running. Let&amp;rsquo;s get started: Step 1: Install Hugo
 First, you need to install Hugo, a popular static site generator. You can download it from the official website at Hugo Themes. Follow the installation instructions for your specific operating system.</description>
     </item>
     
     <item>
       <title>Learning Linux</title>
-      <link>https://new-linux-user.streamers.city/blog/about/</link>
+      <link>/blog/about/</link>
       <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://new-linux-user.streamers.city/blog/about/</guid>
+      <guid>/blog/about/</guid>
       <description>Switching To Linux Switching to Linux has been an incredible journey for me, and it&amp;rsquo;s been full of valuable experiences and encounters with the Linux community. While it&amp;rsquo;s true that the Linux community can be quite opinionated at times, especially among the Arch base enthusiasts, I&amp;rsquo;ve also found that it&amp;rsquo;s a place where you can discover a wealth of knowledge and connect with people who are eager to help you learn and solve problems.</description>
     </item>
     
