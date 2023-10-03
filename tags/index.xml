@@ -5,22 +5,49 @@
     <link>/tags/</link>
     <description>Recent content in Tags on New Linux User</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 28 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>open-source</title>
+      <link>/tags/open-source/</link>
+      <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/open-source/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>privacy</title>
+      <link>/tags/privacy/</link>
+      <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/privacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>smart-home</title>
+      <link>/tags/smart-home/</link>
+      <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/smart-home/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>virtual-assistant</title>
+      <link>/tags/virtual-assistant/</link>
+      <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/virtual-assistant/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>linux</title>
       <link>/tags/linux/</link>
       <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
       
       <guid>/tags/linux/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>open-source</title>
-      <link>/tags/open-source/</link>
-      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/open-source/</guid>
       <description></description>
     </item>
     
@@ -138,15 +165,6 @@
       <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
       
       <guid>/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>privacy</title>
-      <link>/tags/privacy/</link>
-      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/privacy/</guid>
       <description></description>
     </item>
     
