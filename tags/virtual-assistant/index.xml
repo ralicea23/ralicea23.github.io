@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>virtual-assistant on New Linux User</title>
-    <link>/tags/virtual-assistant/</link>
+    <link>https://new-linux-user.streamers.city/tags/virtual-assistant/</link>
     <description>Recent content in virtual-assistant on New Linux User</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 03 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/virtual-assistant/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://new-linux-user.streamers.city/tags/virtual-assistant/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Home Assistant vs. Amazon&#39;s Alexa</title>
-      <link>/blog/home_assistant_vs_alexa/</link>
+      <link>https://new-linux-user.streamers.city/blog/home_assistant_vs_alexa/</link>
       <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>/blog/home_assistant_vs_alexa/</guid>
+      <guid>https://new-linux-user.streamers.city/blog/home_assistant_vs_alexa/</guid>
       <description>Home Assistant and Alexa are both popular smart home platforms, but they serve different purposes and have distinct features and capabilities. Here&amp;#39;s a comparison of the two:
 Purpose: Home Assistant: Home Assistant is an open-source home automation platform that allows you to control and automate various smart devices and services in your home. It is highly customizable and designed for users who want fine-grained control over their smart home setup.</description>
     </item>

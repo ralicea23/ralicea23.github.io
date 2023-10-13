@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>hugo on New Linux User</title>
-    <link>/tags/hugo/</link>
+    <link>https://new-linux-user.streamers.city/tags/hugo/</link>
     <description>Recent content in hugo on New Linux User</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 22 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://new-linux-user.streamers.city/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Exploring Kasm Self-Hosted: Empowering New Linux Users</title>
-      <link>/projects/kasm/</link>
+      <link>https://new-linux-user.streamers.city/projects/kasm/</link>
       <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>/projects/kasm/</guid>
+      <guid>https://new-linux-user.streamers.city/projects/kasm/</guid>
       <description>Introduction Linux has gained tremendous popularity among computer enthusiasts and professionals alike due to its flexibility, security, and open-source nature. If you&amp;rsquo;re a new Linux user looking to harness the power of this operating system, Kasm Self-Hosted is a remarkable project that can significantly enhance your Linux experience. In this post, we&amp;rsquo;ll delve into how Kasm Self-Hosted can benefit newcomers to the Linux world and showcase its practical applications through real-life scenarios.</description>
     </item>
     
     <item>
       <title>Hugo Static Website on GitHub</title>
-      <link>/projects/hugo-static-website/</link>
+      <link>https://new-linux-user.streamers.city/projects/hugo-static-website/</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>/projects/hugo-static-website/</guid>
+      <guid>https://new-linux-user.streamers.city/projects/hugo-static-website/</guid>
       <description>Creating a static website with Hugo and hosting it on GitHub can seem daunting, but I&amp;rsquo;ll break it down into simple steps that beginners can follow. By the end of this post, you&amp;rsquo;ll have your static website up and running. Let&amp;rsquo;s get started: Step 1: Install Hugo
 First, you need to install Hugo, a popular static site generator. You can download it from the official website at Hugo Themes. Follow the installation instructions for your specific operating system.</description>
     </item>

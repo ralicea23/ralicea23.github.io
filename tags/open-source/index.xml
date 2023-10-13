@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>open-source on New Linux User</title>
-    <link>/tags/open-source/</link>
+    <link>https://new-linux-user.streamers.city/tags/open-source/</link>
     <description>Recent content in open-source on New Linux User</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 03 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://new-linux-user.streamers.city/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Home Assistant vs. Amazon&#39;s Alexa</title>
-      <link>/blog/home_assistant_vs_alexa/</link>
+      <link>https://new-linux-user.streamers.city/blog/home_assistant_vs_alexa/</link>
       <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>/blog/home_assistant_vs_alexa/</guid>
+      <guid>https://new-linux-user.streamers.city/blog/home_assistant_vs_alexa/</guid>
       <description>Home Assistant and Alexa are both popular smart home platforms, but they serve different purposes and have distinct features and capabilities. Here&amp;#39;s a comparison of the two:
 Purpose: Home Assistant: Home Assistant is an open-source home automation platform that allows you to control and automate various smart devices and services in your home. It is highly customizable and designed for users who want fine-grained control over their smart home setup.</description>
     </item>
     
     <item>
       <title>Embracing Linux: Unveiling the Best Attributes for Your Computing Needs</title>
-      <link>/blog/linux_vs_windowsos/</link>
+      <link>https://new-linux-user.streamers.city/blog/linux_vs_windowsos/</link>
       <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>/blog/linux_vs_windowsos/</guid>
+      <guid>https://new-linux-user.streamers.city/blog/linux_vs_windowsos/</guid>
       <description>Are you tired of the constant battle between Windows and macOS users, each proclaiming the superiority of their operating system? If you&amp;rsquo;re looking for an alternative that offers a unique set of advantages, Linux might be the answer you&amp;rsquo;ve been searching for. In this post, we&amp;rsquo;ll explore the best attributes of using Linux over Windows and macOS.
 Freedom and Open Source Philosophy: Linux is built on the principles of open source software, which means that anyone can view, modify, and distribute its source code.</description>
     </item>
