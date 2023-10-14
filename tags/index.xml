@@ -5,7 +5,25 @@
     <link>https://new-linux-user.streamers.city/tags/</link>
     <description>Recent content in Tags on New Linux User</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 03 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://new-linux-user.streamers.city/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://new-linux-user.streamers.city/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>alpine-linux</title>
+      <link>https://new-linux-user.streamers.city/tags/alpine-linux/</link>
+      <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://new-linux-user.streamers.city/tags/alpine-linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mautic</title>
+      <link>https://new-linux-user.streamers.city/tags/mautic/</link>
+      <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://new-linux-user.streamers.city/tags/mautic/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>open-source</title>
       <link>https://new-linux-user.streamers.city/tags/open-source/</link>
@@ -196,7 +214,7 @@
     </item>
     
     <item>
-      <title>virtual machines</title>
+      <title>virtual-machines</title>
       <link>https://new-linux-user.streamers.city/tags/virtual-machines/</link>
       <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
       

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>alpine-linux on New Linux User</title>
+    <link>https://new-linux-user.streamers.city/tags/alpine-linux/</link>
+    <description>Recent content in alpine-linux on New Linux User</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 13 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://new-linux-user.streamers.city/tags/alpine-linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mautic install Proxmox</title>
+      <link>https://new-linux-user.streamers.city/blog/mautic/</link>
+      <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://new-linux-user.streamers.city/blog/mautic/</guid>
+      <description> Proxmox Alpine container
+Docker and Docker-Compose Run the following commands one at a time.
+$ apk add docker.io docker-compose $ rc-update add docker boot $ service docker start Docker-Compose Template Access your new Mautic http://localhost:8893
+version: &amp;#34;3.9&amp;#34; services: database: image: mariadb:latest container_name: mautic-db environment: MYSQL_ROOT_PASSWORD: =password= ports: - &amp;#34;3306:3306&amp;#34; volumes: - database:/var/lib/mysql:rw restart: always networks: - mauticnet command: --character-set-server=utf8mb4 --collation-server=utf8mb4_general_ci --sql-mode=&amp;#34;&amp;#34; mautic: container_name: mautic image: mautic/mautic:v4-apache volumes: - mautic_data:/var/www/html:rw environment: - MAUTIC_DB_HOST=database - MAUTIC_DB_USER=root - MAUTIC_DB_PASSWORD= =passsword= - MAUTIC_DB_NAME=mautic4 - MAUTIC_DB_TABLE_PREFIX=mautic4 restart: always depends_on: - database links: - database networks: - mauticnet ports: - &amp;#34;8888:80&amp;#34; networks: mauticnet: volumes: database: mautic_data: </description>
+    </item>
+    
+  </channel>
+</rss>

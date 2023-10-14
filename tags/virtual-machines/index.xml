@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>virtual machines on New Linux User</title>
+    <title>virtual-machines on New Linux User</title>
     <link>https://new-linux-user.streamers.city/tags/virtual-machines/</link>
-    <description>Recent content in virtual machines on New Linux User</description>
+    <description>Recent content in virtual-machines on New Linux User</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 30 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://new-linux-user.streamers.city/tags/virtual-machines/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -12,7 +12,7 @@
       <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://new-linux-user.streamers.city/blog/about/</guid>
-      <description>Switching To Linux Switching to Linux has been an incredible journey for me, and it&amp;rsquo;s been full of valuable experiences and encounters with the Linux community. While it&amp;rsquo;s true that the Linux community can be quite opinionated at times, especially among the Arch base enthusiasts, I&amp;rsquo;ve also found that it&amp;rsquo;s a place where you can discover a wealth of knowledge and connect with people who are eager to help you learn and solve problems.</description>
+      <description>Switching To Linux Switching to Linux has been an incredible journey for me, and it&amp;#39;s been full of valuable experiences and encounters with the Linux community. While it&amp;#39;s true that the Linux community can be quite opinionated at times, especially among the Arch base enthusiasts, I&amp;#39;ve also found that it&amp;#39;s a place where you can discover a wealth of knowledge and connect with people who are eager to help you learn and solve problems.</description>
     </item>
     
   </channel>
