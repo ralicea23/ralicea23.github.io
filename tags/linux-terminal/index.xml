@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ai on New Linux User</title>
-    <link>https://new-linux-user.streamers.city/tags/ai/</link>
-    <description>Recent content in ai on New Linux User</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://new-linux-user.streamers.city/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <title>linux-terminal on New Linux User</title>
+    <link>https://new-linux-user.streamers.city/tags/linux-terminal/</link>
+    <description>Recent content in linux-terminal on New Linux User</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://new-linux-user.streamers.city/tags/linux-terminal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ShellGPT</title>
       <link>https://new-linux-user.streamers.city/blog/test-123/</link>

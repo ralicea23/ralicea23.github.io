@@ -1,22 +1,22 @@
 <!doctype html>
 <html lang="en-us">
   <head>
-    <title>This a test after a long time // New Linux User</title>
+    <title>ShellGPT // New Linux User</title>
     <link rel="shortcut icon" href="img/logo.svg" />
     <meta charset="utf-8" />
     <meta name="generator" content="Hugo 0.111.3">
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="author" content="Rob Alicea" />
-    <meta name="description" content="testing my skills on hugo" />
+    <meta name="description" content="AI on terminal" />
     <link rel="stylesheet" href="/css/main.min.21a668a1314456980ad0739cf44f89481addc1f311e92a94cf90ef308a096e17.css" />
 
     
     <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="This a test after a long time"/>
-<meta name="twitter:description" content="testing my skills on hugo"/>
+<meta name="twitter:title" content="ShellGPT"/>
+<meta name="twitter:description" content="AI on terminal"/>
 
-    <meta property="og:title" content="This a test after a long time" />
-<meta property="og:description" content="testing my skills on hugo" />
+    <meta property="og:title" content="ShellGPT" />
+<meta property="og:description" content="AI on terminal" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://new-linux-user.streamers.city/blog/test-123/" /><meta property="article:section" content="Blog" />
 
@@ -59,7 +59,7 @@
       
   <article class="post">
     <header class="post-header">
-      <h1 class ="post-title">This a test after a long time</h1>
+      <h1 class ="post-title">ShellGPT</h1>
       <div class="post-meta">
         <div>
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-calendar">
@@ -73,7 +73,7 @@
   <title>clock</title>
   <circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline>
 </svg>
-          1 min read
+          2 min read
         </div>
         <div>
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tag">
@@ -82,17 +82,110 @@
 </svg>
               <a class="tag" href="https://new-linux-user.streamers.city/tags/ai/">ai</a>
               <a class="tag" href="https://new-linux-user.streamers.city/tags/chatgpt/">chatgpt</a>
+              <a class="tag" href="https://new-linux-user.streamers.city/tags/linux-terminal/">linux-terminal</a>
         </div>
       </div>
     </header>
     <div class="post-content">
       
+<div class="center-block" style="text-align: center; margin-left: auto; margin-right: auto;">
+<p><img src="/img/chatgpt.png" alt="/img/chatgpt.png" title="/img/chatgpt.png" /></p>
+</div>
 <div id="outline-container-headline-1" class="outline-2">
 <h2 id="headline-1">
 How to Set up and Use ChatGPT in Linux Terminal
 </h2>
 <div id="outline-text-headline-1" class="outline-text-2">
-<p>Leaving the popularity of NFTs and the metaverse in the dust, AI has emerged as the new buzzword in the technology world. ChatGPT and its alternatives are flourishing on the internet, helping users get everyday tasks done with ease. Earlier, we published guides on how to get started with making your own ChatGPT-like chatbot, using Bing AI in any browser, and more. But, what if you are a Linux user and want to bring the wits of this AI chatbot to your system? Well, this is where ShellGPT steps into the picture. It brings the power of ChatGPT right to your Linux Terminal. ShellGPT provides answers, intelligent suggestions, and writes commands and code for you, helping you navigate the command line efficiently. In this article, we will show you how to install the ShellGPT command line tool and use a ChatGPT-like AI bot in the Linux command line.</p>
+<p>Artificial Intelligence has taken center stage as the tech sector&#39;s new darling. Platforms like ChatGPT and its kin are thriving online, streamlining a plethora of routine tasks for users. In our previous releases, we&#39;ve covered the basics of crafting a ChatGPT-esque chat-bot, leveraging Bing AI across various browsers, among other topics. But what if you&#39;re operating within the Linux ecosystem and yearn to integrate the savvy of AI chat-bots into your workflow? That&#39;s where ShellGPT enters the scene, delivering ChatGPT&#39;s capabilities straight to your Linux Terminal. ShellGPT is adept at offering insightful responses, crafting intelligent suggestions, and even scripting commands and code, enhancing your command line mastery. This guide is set to demonstrate the installation of the
+ShellGPT command line utility and introduce the utilization of a ChatGPT-mimicking AI within the Linux command line for a transformative user experience.</p>
+</div>
+</div>
+<div id="outline-container-headline-2" class="outline-2">
+<h2 id="headline-2">
+Install Python
+</h2>
+<div id="outline-text-headline-2" class="outline-text-2">
+<p>Python stands as a cornerstone in the toolkit of modern computing, and it&#39;s the foundation upon which ShellGPT—a command line incarnation of ChatGPT—is constructed. Indeed, Python, in concert with other programming languages, forms the backbone of ChatGPT&#39;s architecture. Most contemporary Linux distributions come with Python already in place. To begin, ascertain the version of Python your Linux machine is equipped with by executing the following command:</p>
+<div class="src src-bash">
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>python3 --version</span></span></code></pre></div>
+</div>
+</div>
+</div>
+<div id="outline-container-headline-3" class="outline-2">
+<h2 id="headline-3">
+Install Pip Package Manager
+</h2>
+<div id="outline-text-headline-3" class="outline-text-2">
+<div class="src src-bash">
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>sudo apt-get -y install python3-pip
+</span></span><span style="display:flex;"><span>pip3 --version</span></span></code></pre></div>
+</div>
+</div>
+</div>
+<div id="outline-container-headline-4" class="outline-2">
+<h2 id="headline-4">
+Install Venv Module
+</h2>
+<div id="outline-text-headline-4" class="outline-text-2">
+<div class="src src-bash">
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>sudo apt install python3-venv</span></span></code></pre></div>
+</div>
+</div>
+</div>
+<div id="outline-container-headline-5" class="outline-2">
+<h2 id="headline-5">
+Set up the Environment
+</h2>
+<div id="outline-text-headline-5" class="outline-text-2">
+<div class="src src-bash">
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>mkdir &lt;your_directory_name&gt;
+</span></span><span style="display:flex;"><span>cd &lt;new_directory_name&gt;
+</span></span><span style="display:flex;"><span>python3 -m venv &lt;virtual_environment_name&gt;
+</span></span><span style="display:flex;"><span>source &lt;virtual_environment_name&gt;/bin/activate
+</span></span><span style="display:flex;"><span><span style="color:#f92672">(</span>&lt;virtual_environment_name&gt;<span style="color:#f92672">)</span>&lt;username&gt;@&lt;system_name&gt;</span></span></code></pre></div>
+</div>
+</div>
+</div>
+<div id="outline-container-headline-6" class="outline-2">
+<h2 id="headline-6">
+Get Your OpenAI API Key
+</h2>
+<div id="outline-text-headline-6" class="outline-text-2">
+<div class="src src-bash">
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>export OPENAI_API_KEY<span style="color:#f92672">=</span>&lt;your_OpenAI_API_key_here&gt;
+</span></span><span style="display:flex;"><span>env <span style="color:#75715e">#verify the enviroment variable and make sure the API key is correct.</span></span></span></code></pre></div>
+</div>
+<p>To make the API key permanent open the .bashrc file and add the API key at the end of the file.</p>
+<div class="src src-bash">
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>export OPENAI_API_KEY<span style="color:#f92672">=</span>&lt;your_OpenAI_API_key_here&gt;
+</span></span><span style="display:flex;"><span>source .bashrc</span></span></code></pre></div>
+</div>
+</div>
+</div>
+<div id="outline-container-headline-7" class="outline-2">
+<h2 id="headline-7">
+Install ShellGPT to Use ChatGPT
+</h2>
+<div id="outline-text-headline-7" class="outline-text-2">
+<div class="src src-bash">
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>pip3 install shell-gpt</span></span></code></pre></div>
+</div>
+</div>
+</div>
+<div id="outline-container-headline-8" class="outline-2">
+<h2 id="headline-8">
+Use ShellGPT for Queries
+</h2>
+<div id="outline-text-headline-8" class="outline-text-2">
+<div class="src src-bash">
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>sgpt <span style="color:#e6db74">&#34;&lt;your_query&gt;&#34;</span>
+</span></span><span style="display:flex;"><span>sgpt <span style="color:#e6db74">&#34;mass of sun&#34;</span></span></span></code></pre></div>
+</div>
+<p>
+ShellGPT transforms your Linux terminal by infusing it with the intelligence of ChatGPT. This tool simplifies command line interactions, catering to novices and experts alike, while also offering a suite of extra functionalities. As highlighted earlier, ShellGPT is crafted to evolve and adapt through user interaction, becoming increasingly adept over time. However, it&#39;s crucial to exercise caution and avoid disclosing any confidential information or proprietary company code to any AI system. We&#39;re eager to hear your thoughts on this innovative AI-powered command line utility, so please share your experiences and feedback in the comments section below.</p>
+<div class="center-block" style="text-align: center; margin-left: auto; margin-right: auto;">
+<p><img src="/img/logo.svg" alt="/img/logo.svg" title="/img/logo.svg" /></p>
+</div>
 </div>
 </div>
 
