@@ -222,5 +222,23 @@
       <description></description>
     </item>
     
+    <item>
+      <title>ai</title>
+      <link>https://new-linux-user.streamers.city/tags/ai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://new-linux-user.streamers.city/tags/ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chatgpt</title>
+      <link>https://new-linux-user.streamers.city/tags/chatgpt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://new-linux-user.streamers.city/tags/chatgpt/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
